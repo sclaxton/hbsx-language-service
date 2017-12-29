@@ -1,2 +1,2 @@
-# ts-hbsx-plugin
-Experimental TypeScript Language Service for An experimental Handlebars variant which plays nicely with TypeScript
+# hbsx-language-service
+Experimental Language Service for an experimental Handlebars variant which plays nicely with TypeScript
